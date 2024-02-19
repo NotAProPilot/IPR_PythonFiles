@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -20,22 +21,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2bTVHfZuv4rGkSFoscXfIsYxjUh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for Act1_UnitTest.test_loadGrayScale.executor": "Run",
+    "Python tests.Python tests in Act1_UnitTest.py.executor": "Run",
+    "Python.Act1_ConvertImageToBinary (1).executor": "Run",
+    "Python.Act1_ConvertImageToBinary.executor": "Run",
+    "Python.Act1_ConvertToBinary.executor": "Run",
     "Python.Act1_LoadAndDisplayImage.executor": "Run",
+    "Python.Act1_Modified.executor": "Run",
     "Python.Act2_MakeImageBlackAndWhite.executor": "Run",
+    "Python.Act2_MorphTrans.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/FIT/Junior Year/Official classes/SPRING 2024/Image Processing (IPR)/IPR_PythonFile"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -45,8 +57,15 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Act2_MakeImageBlackAndWhite">
-    <configuration name="Act1_LoadAndDisplayImage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FIT\Junior Year\Official classes\SPRING 2024\Image Processing (IPR)\IPR_PythonFile\Tut2\UnitTest" />
+      <recent name="D:\FIT\Junior Year\Official classes\SPRING 2024\Image Processing (IPR)\IPR_PythonFile\Tut2\Exercises" />
+      <recent name="D:\FIT\Junior Year\Official classes\SPRING 2024\Image Processing (IPR)\IPR_PythonFile" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Act2_MorphTrans">
+    <configuration name="Act1_ConvertImageToBinary (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IPR_PythonFile" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tut1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tut2/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tut1/Act1_LoadAndDisplayImage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tut2/Exercises/Act1_ConvertImageToBinary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Act2_MakeImageBlackAndWhite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Act1_ConvertImageToBinary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IPR_PythonFile" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,23 +96,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tut1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tut2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tut1/Act2_MakeImageBlackAndWhite.py" />
+      <option name="SCRIPT_NAME" value="D:\FIT\Junior Year\Official classes\SPRING 2024\Image Processing (IPR)\IPR_PythonFile\Tut2\Exercises\Act1_ConvertImageToBinary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Act2_MorphTrans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IPR_PythonFile" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tut2/Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tut2/Exercises/Act2_MorphTrans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Tut2.UnitTest.Act1_UnitTest.test_loadGrayScale" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="IPR_PythonFile" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tut2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tut2.UnitTest.Act1_UnitTest.test_loadGrayScale&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in Act1_UnitTest.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="IPR_PythonFile" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tut2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tut2/UnitTest/Act1_UnitTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Act2_MakeImageBlackAndWhite" />
-        <item itemvalue="Python.Act1_LoadAndDisplayImage" />
+        <item itemvalue="Python.Act2_MorphTrans" />
+        <item itemvalue="Python.Act1_ConvertImageToBinary (1)" />
+        <item itemvalue="Python tests.Python tests in Act1_UnitTest.py" />
+        <item itemvalue="Python tests.Python tests for Tut2.UnitTest.Act1_UnitTest.test_loadGrayScale" />
+        <item itemvalue="Python.Act1_ConvertImageToBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -113,6 +187,35 @@
       <option name="presentableId" value="Default" />
       <updated>1706238969580</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Activity 2">
+      <option name="closed" value="true" />
+      <created>1706241928902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706241928902</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Activity 2">
+      <option name="closed" value="true" />
+      <created>1706844978814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706844978814</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Activity 2">
+      <option name="closed" value="true" />
+      <created>1707191863602</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707191863602</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Activity 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Activity 2" />
   </component>
 </project>
