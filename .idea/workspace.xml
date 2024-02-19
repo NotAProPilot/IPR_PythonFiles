@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="177388d7-62ab-4358-b927-04ee8a1b094d" name="Changes" comment="" />
+    <list default="true" id="177388d7-62ab-4358-b927-04ee8a1b094d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tut2/Exercises/Act3_EdgeDetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tut2/Exercises/Act3_EdgeDetection.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +47,8 @@
     "Python.Act1_Modified.executor": "Run",
     "Python.Act2_MakeImageBlackAndWhite.executor": "Run",
     "Python.Act2_MorphTrans.executor": "Run",
+    "Python.Act3_EdgeDetection.executor": "Run",
+    "Python.Act4_HistogramAnalysis.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -64,7 +69,7 @@
       <recent name="D:\FIT\Junior Year\Official classes\SPRING 2024\Image Processing (IPR)\IPR_PythonFile" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Act2_MorphTrans">
+  <component name="RunManager" selected="Python.Act4_HistogramAnalysis">
     <configuration name="Act1_ConvertImageToBinary (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IPR_PythonFile" />
       <option name="ENV_FILES" value="" />
@@ -79,28 +84,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tut2/Exercises/Act1_ConvertImageToBinary.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Act1_ConvertImageToBinary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="IPR_PythonFile" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tut2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\FIT\Junior Year\Official classes\SPRING 2024\Image Processing (IPR)\IPR_PythonFile\Tut2\Exercises\Act1_ConvertImageToBinary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,19 +114,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Tut2.UnitTest.Act1_UnitTest.test_loadGrayScale" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Act3_EdgeDetection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IPR_PythonFile" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tut2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tut2/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Tut2.UnitTest.Act1_UnitTest.test_loadGrayScale&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tut2/Exercises/Act3_EdgeDetection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Act4_HistogramAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IPR_PythonFile" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tut2/Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tut2/Exercises/Act4_HistogramAnalysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in Act1_UnitTest.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -163,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Act4_HistogramAnalysis" />
         <item itemvalue="Python.Act2_MorphTrans" />
+        <item itemvalue="Python.Act3_EdgeDetection" />
         <item itemvalue="Python.Act1_ConvertImageToBinary (1)" />
         <item itemvalue="Python tests.Python tests in Act1_UnitTest.py" />
-        <item itemvalue="Python tests.Python tests for Tut2.UnitTest.Act1_UnitTest.test_loadGrayScale" />
-        <item itemvalue="Python.Act1_ConvertImageToBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -211,11 +223,29 @@
       <option name="project" value="LOCAL" />
       <updated>1707191863602</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Activity 2 and sample images.">
+      <option name="closed" value="true" />
+      <created>1708314046251</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708314046251</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Activity 3 and sample images.">
+      <option name="closed" value="true" />
+      <created>1708318562883</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708318562883</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Activity 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Activity 2" />
+    <MESSAGE value="Add Activity 2 and sample images." />
+    <MESSAGE value="Add Activity 3 and sample images." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Activity 3 and sample images." />
   </component>
 </project>
