@@ -62,6 +62,8 @@ def display_menu():
   """
   Displays the menu options and prompts for user input.
   """
+  for i in range(0,1):
+      print("\n")
   print("FFT Program Menu:")
   print("1. Run FFT analysis")
   print("2. Exit")

@@ -36,35 +36,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for Act1_UnitTest.test_loadGrayScale.executor": "Run",
-    "Python tests.Python tests in Act1_UnitTest.py.executor": "Run",
-    "Python.Act1_ConvertImageToBinary (1).executor": "Run",
-    "Python.Act1_ConvertImageToBinary.executor": "Run",
-    "Python.Act1_ConvertToBinary.executor": "Run",
-    "Python.Act1_LoadAndDisplayImage.executor": "Run",
-    "Python.Act1_Modified.executor": "Run",
-    "Python.Act2_MakeImageBlackAndWhite.executor": "Run",
-    "Python.Act2_MorphTrans.executor": "Run",
-    "Python.Act3_EdgeDetection.executor": "Run",
-    "Python.Act4_HistogramAnalysis.executor": "Run",
-    "Python.Act5_NoiseAdd_ReAdd_Demo.executor": "Run",
-    "Python.Act6_FourierTransformation.executor": "Run",
-    "Python.PLTTest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/FIT/Junior Year/Official classes/SPRING 2024/Image Processing (IPR)/IPR_PythonFile"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for Act1_UnitTest.test_loadGrayScale.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Act1_UnitTest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Act1_ConvertImageToBinary (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Act1_ConvertImageToBinary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Act1_ConvertToBinary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Act1_LoadAndDisplayImage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Act1_Modified.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Act2_MakeImageBlackAndWhite.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Act2_MorphTrans.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Act3_EdgeDetection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Act4_HistogramAnalysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Act5_NoiseAdd_ReAdd_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Act6_FourierTransformation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PLTTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/FIT/Junior Year/Official classes/SPRING 2024/Image Processing (IPR)/IPR_PythonFile&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\FIT\Junior Year\Official classes\SPRING 2024\Image Processing (IPR)\IPR_PythonFile\Tut2\UnitTest" />
@@ -265,7 +265,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708335191415</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add Activity 1 and sample images.">
+      <option name="closed" value="true" />
+      <created>1708399328881</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708399328881</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add Activity 1 and sample images.">
+      <option name="closed" value="true" />
+      <created>1708399332195</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708399332195</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,6 +289,7 @@
     <MESSAGE value="Add Activity 2 and sample images." />
     <MESSAGE value="Add Activity 3 and sample images." />
     <MESSAGE value="Add Activity 4 and sample images." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Activity 4 and sample images." />
+    <MESSAGE value="Add Activity 1 and sample images." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Activity 1 and sample images." />
   </component>
 </project>
